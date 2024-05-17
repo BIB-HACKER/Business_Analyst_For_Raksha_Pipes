@@ -1,19 +1,19 @@
 <h1 align="center"><b>Business Analyst Project: Data Management and Visualization for&nbsp;&nbsp;<img align="center" alt="Coding" width="115" src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/mainlogodark.png"> - Pipes</b></h1>
 
-# Introduction
+# Introduction 🚀
 In today's data-driven world, effective data management and visualization are crucial for making informed business decisions. This project showcases a comprehensive approach to building a data management and visualization system from scratch for Raksha Pipes, a Bangalore-based company. The system encompasses data generation, database creation, and interactive dashboard development, providing valuable insights into business operations.
 
 # Objective
 This project aims to build a data management and visualization system from scratch for Raksha Pipes, a Bangalore-based company. The system includes data generation, database creation, and dashboard development, culminating in a detailed report and video presentation.
 
-# Table of Contents
+# Table of Contents 📊
 ### Step 1: Generate Data and Design Database
    - Generate Data
    - Design Database
 ### Step 2: Set Up Database in MySQL
 ### Step 3: Create Dashboard in Power BI
 
-# Project Highlights
+# Project Highlights 
 - **Comprehensive Data Management:** From data generation to database creation, this project covers the full spectrum of data management practices.
 - **Interactive Visualization:** Utilizing Power BI, the project includes an interactive dashboard that offers deep insights into sales trends, product performance, and customer demographics.
 - **Practical Application:** The project mimics real-world business operations, providing a practical framework for similar data management and visualization tasks.
@@ -23,7 +23,7 @@ This project aims to build a data management and visualization system from scrat
 - **Real-World Application:** By working on a project that mimics real business operations, you gain practical experience that is highly valuable in the industry.
 - **Insightful Analysis:** The interactive dashboard allows for deep dives into data, helping you understand and analyze key business metrics effectively.
 
-# Assignment Overview
+# Assignment Overview 💻
 ## Step 1:Generate Data and Design Database
 ### Task: Create realistic data for Raksha Pipes and design a MySQL database.
 

@@ -3,9 +3,9 @@
   <h2>Hi there! 👋 I'm Bibhakar Paul</h2>
   <p>Welcome to my GitHub repository! Here's a glimpse of my skills and expertise:</p>
   <div style="padding: 20px; background-color: #f0f0f0; border-radius: 10px; box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);">
-    <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" alt="Python Expert" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #3776AB;">
-    <img src="https://img.shields.io/badge/Web%20Scraping-Pro-FF6F61?logo=webcomponents.org&logoColor=white" alt="Web Scraping Pro" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #FF6F61;">
-    <img src="https://img.shields.io/badge/SQL%20Master-4682B4?logo=sql&logoColor=white" alt="SQL Master" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #4682B4;">
+    <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" alt="Python Pro" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #3776AB;">
+    <img src="https://img.shields.io/badge/Web%20Scraping-Pro-FF6F61?logo=webcomponents.org&logoColor=white" alt="Web Scraping Proficient" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #FF6F61;">
+    <img src="https://img.shields.io/badge/SQL%20Master-4682B4?logo=sql&logoColor=white" alt="SQL Proficient" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #4682B4;">
     <img src="https://img.shields.io/badge/Data%20Analysis-Pro-F15B2A?logo=anaconda&logoColor=white" alt="Data Analysis Pro" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #F15B2A;">
     <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?logo=power-bi&logoColor=white" alt="Power BI Advanced" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #F2C811;">
     <img src="https://img.shields.io/badge/MongoDB-Proficient-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB Proficient" style="margin: 5px; padding: 10px; border-radius: 5px; background-color: #4EA94B;">

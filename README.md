@@ -36,11 +36,11 @@ This project aims to build a data management and visualization system from scrat
 - **Real-World Application:** By working on a project that mimics real business operations, you gain practical experience that is highly valuable in the industry.
 - **Insightful Analysis:** The interactive dashboard allows for deep dives into data, helping you understand and analyze key business metrics effectively.
 
-# Assignment Overview 💻
-## Step 1:Generate Data and Design Database
+# Project Overview 💻
+## Step 1:Generate Data and Design Database <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="25" height="25"/> </a>
 ### Task: Create realistic data for Raksha Pipes and design a MySQL database.
 
-### Generate Data <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="25" height="25"/> </a>
+### Generate Data 
 - Use the faker library in Python to generate synthetic data.
 - Ensure the data includes attributes such as product type, customer details, and sales information.
 - Example Python code to generate data:
@@ -88,10 +88,10 @@ This project aims to build a data management and visualization system from scrat
    - Top Performing Products
    - Customer Demographics
 <p float="left">
-  <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot%202024-05-17%20020859.png" style="float:right"/>
+  <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot%202024-05-17%20201316.png" style="float:right"/>
 </p>
 
-## 🔗 Connect with Me
-Ready to explore further or collaborate on a project? Reach out to me on [LinkedIn](https://www.linkedin.com/in/bibhakar-paul-2595a721b/) and let's embark on an epic tech adventure together!
+## 🔗 Connect with Me &nbsp; <a href="https://www.linkedin.com/in/bibhakar-paul-2595a721b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ 
 
 <h1 align="center"><b> THANK YOU </b> </h1>

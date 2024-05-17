@@ -27,7 +27,7 @@ This project aims to build a data management and visualization system from scrat
 ## Step 1:Generate Data and Design Database
 ### Task: Create realistic data for Raksha Pipes and design a MySQL database.
 
-### <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="25" height="25"/> </a> Generate Data
+### Generate Data <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="25" height="25"/> </a>
 - Use the faker library in Python to generate synthetic data.
 - Ensure the data includes attributes such as product type, customer details, and sales information.
 - Example Python code to generate data:
@@ -35,7 +35,7 @@ This project aims to build a data management and visualization system from scrat
   <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot%202024-05-17%20174510.png" style="float:right"/>
 </p>
 
-### <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> Design Database
+### Design Database
 **Create a MySQL database schema named raksha_pipes with the following tables:**
 - customers(customer_id, customer_name, email, gender, product_id)
 - products(product_id, product_name, price)
@@ -46,7 +46,7 @@ This project aims to build a data management and visualization system from scrat
   <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot%202024-05-17%20021638.png" style="float:right"/>
 </p>
 
-## Step 2: Set Up Database in MySQL
+## Step 2: Set Up Database in MySQL <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 ### Task: Create the database in MySQL and add the data you generated.
 
 - Connecting Python to Sql server:
@@ -60,36 +60,25 @@ This project aims to build a data management and visualization system from scrat
   <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot_20240517-181543~2.png" width="400" height="1000" style="float:right"/>
 </p>
 
+- Load the generated data into the MySQL database using Python:
+<p float="left">
+  <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot%202024-05-17%20022718.png" style="float:right"/>
+</p>
 
-## 2.	 Creating Schema
-We’ve designed the schema using Miro. Below is a screenshot of the schema: !Schema Design
-Integration of Python scripts with SQL:
-We’ll explain how Python scripts interact with our SQL database.
+## Step 3: Create Dashboard in Power BI <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power-BI" width="25" height="35"/> </a> 
+### Task: Make an interactive dashboard in Power BI to display key business metrics.
 
-#### Schema
-![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%20(24).png)
+- Connect your MySQL database to Power BI.
+- Develop a user-friendly dashboard that visualizes sales trends, product performance, and customer profiles.
+- Example visuals:
+   - Sales Trends over Time
+   - Top Performing Products
+   - Customer Demographics
+<p float="left">
+  <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot%202024-05-17%20020859.png" style="float:right"/>
+</p>
 
-
-## 3.	<a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power-BI" width="25" height="35"/> </a> Dashboard (Power BI)
-We’ve created an interactive dashboard using Power BI. Here’s a screenshot: !Power BI Dashboard
-Analysis:
-We’ll discuss key insights and visualizations from the dashboard.
-Final Player List:
-We’ll provide the list of players based on our analysis.
-#### Batting
-
-![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-12%20202506.png)
-#### Bowling
-![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-12%20202534.png)
-
-## 4. 📊	Table Descriptions
-Let’s break down the tables and their columns:<br>
-PlayerName: Name of the player (datatype: string)
-Current Team: The team the player currently represents (datatype: string)
-Nationality: Player’s nationality (datatype: string)
-And ETC.
-
-#### Players Table
-![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20190400.png)
+## 🔗 Connect with Me
+Ready to explore further or collaborate on a project? Reach out to me on [LinkedIn](https://www.linkedin.com/in/bibhakar-paul-2595a721b/) and let's embark on an epic tech adventure together!
 
 <h1 align="center"><b> THANK YOU </b> </h1>

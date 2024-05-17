@@ -1,4 +1,4 @@
-<h1 align="center"><b>Business Analyst Project: Data Management and Visualization for&nbsp;&nbsp;<img align="center" alt="Coding" width="115" src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/mainlogodark.png"> - Pipes</b></h1>;    
+<h1 align="center"><b>Business Analyst Project: Data Management and Visualization for&nbsp;&nbsp;<img align="center" alt="Coding" width="115" src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/mainlogodark.png"> - Pipes</b></h1>
 
 # Introduction
 In today's data-driven world, effective data management and visualization are crucial for making informed business decisions. This project showcases a comprehensive approach to building a data management and visualization system from scratch for Raksha Pipes, a Bangalore-based company. The system encompasses data generation, database creation, and interactive dashboard development, providing valuable insights into business operations.
@@ -45,6 +45,21 @@ This project aims to build a data management and visualization system from scrat
 <p float="left">
   <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot%202024-05-17%20021638.png" style="float:right"/>
 </p>
+
+## Step 2: Set Up Database in MySQL
+### Task: Create the database in MySQL and add the data you generated.
+
+- Connecting Python to Sql server:
+<p float="left">
+  <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot%202024-05-17%20175910-con.png" style="float:right"/>
+</p>
+
+- Create the database schema in MySQL:
+<p align="center">
+  <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot_20240517-181507~3.png" width="400" height="1000"/>
+  <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot_20240517-181543~2.png" width="400" height="1000" style="float:right"/>
+</p>
+
 
 ## 2.	 Creating Schema
 We’ve designed the schema using Miro. Below is a screenshot of the schema: !Schema Design

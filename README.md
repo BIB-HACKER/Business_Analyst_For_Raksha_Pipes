@@ -73,7 +73,7 @@ This project aims to build a data management and visualization system from scrat
   <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot_20240517-181543~2.png" width="400" height="1000" style="float:right"/>
 </p>
 
-- Load the generated data into the MySQL database using Python:
+- Load the generated data into the MySQL database:
 <p float="left">
   <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot%202024-05-17%20022718.png" style="float:right"/>
 </p>

@@ -32,7 +32,7 @@ This project aims to build a data management and visualization system from scrat
 - **Practical Application:** The project mimics real-world business operations, providing a practical framework for similar data management and visualization tasks.
 
 # Why Explore?
-- **Enhance Your Skills:** This project offers a hands-on opportunity to enhance your skills in data management, SQL, and data visualization.
+- **Enhance Skills:** This project offers a hands-on opportunity to enhance your skills in data management, SQL, and data visualization.
 - **Real-World Application:** By working on a project that mimics real business operations, you gain practical experience that is highly valuable in the industry.
 - **Insightful Analysis:** The interactive dashboard allows for deep dives into data, helping you understand and analyze key business metrics effectively.
 

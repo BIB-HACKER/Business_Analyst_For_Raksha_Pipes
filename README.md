@@ -1,10 +1,4 @@
-<h1 align="center"><b>Business Analyst Project: Data Management and Visualization for<img align="center" alt="Coding" width="115" src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/mainlogodark.png"> - Pipes</b></h1>;    
-
-<p align="center">
-  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/InShot_20240511_171603299.jpg" width="400" />
-  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/preview-01.jpeg.jpg" width="400" height="400" style="float:right"/>
-</p>
-
+<h1 align="center"><b>Business Analyst Project: Data Management and Visualization for&nbsp;&nbsp;<img align="center" alt="Coding" width="115" src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/mainlogodark.png"> - Pipes</b></h1>;    
 
 # Introduction
 In today's data-driven world, effective data management and visualization are crucial for making informed business decisions. This project showcases a comprehensive approach to building a data management and visualization system from scratch for Raksha Pipes, a Bangalore-based company. The system encompasses data generation, database creation, and interactive dashboard development, providing valuable insights into business operations.
@@ -29,19 +23,30 @@ This project aims to build a data management and visualization system from scrat
 - **Real-World Application:** By working on a project that mimics real business operations, you gain practical experience that is highly valuable in the industry.
 - **Insightful Analysis:** The interactive dashboard allows for deep dives into data, helping you understand and analyze key business metrics effectively.
 
-## 1.  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="25" height="25"/> </a>	Data Collection
-We’ll scrape data from the following sources:
-IPL Official Website(https://www.iplt20.com/),
-Cricket Influencers on Feedspot(https://influencers.feedspot.com/cricket_instagram_influencers/),
-Kaggle(https://www.kaggle.com/code/ashwinshetgaonkar/ipl-batting-analysis-2008-2021/input),
-Howzat Blog: Which Indian T20 League Team Has Most Fans?(https://www.howzat.com/blog/cricket/which-indian-t20-league-team-has-most-fans),
-We’ll show the tools used for data scraping.
+# Assignment Overview
+## Step 1:Generate Data and Design Database
+### Task: Create realistic data for Raksha Pipes and design a MySQL database.
+
+### <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="25" height="25"/> </a> Generate Data
+- Use the faker library in Python to generate synthetic data.
+- Ensure the data includes attributes such as product type, customer details, and sales information.
+- Example Python code to generate data:
 <p float="left">
-  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20105753.png" width="400" height="430"/>
-  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20105914.png" width="400" height="430" style="float:right"/>
+  <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot%202024-05-17%20174510.png" style="float:right"/>
 </p>
 
-## 2.	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> Creating Schema
+### <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> Design Database
+**Create a MySQL database schema named raksha_pipes with the following tables:**
+- customers(customer_id, customer_name, email, gender, product_id)
+- products(product_id, product_name, price)
+- orders(order_id, customer_id, order_date, total_amount, status, product_id)
+- sales(sale_id, product_id, customer_id, quantity, sale_amount)
+- suppliers(supplier_id, supplier_name, contact_info, product_id)
+<p float="left">
+  <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot%202024-05-17%20021638.png" style="float:right"/>
+</p>
+
+## 2.	 Creating Schema
 We’ve designed the schema using Miro. Below is a screenshot of the schema: !Schema Design
 Integration of Python scripts with SQL:
 We’ll explain how Python scripts interact with our SQL database.

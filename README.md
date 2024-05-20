@@ -64,7 +64,7 @@ This project aims to build a data management and visualization system from scrat
 
 - Connecting Python to Sql server:
 <p float="left">
-  <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot%202024-05-17%20175910-con.png" style="float:right"/>
+  <img src="https://github.com/BIB-HACKER/Business-Analyst-Project/blob/main/Screenshot%202024-05-20%20224648.png" style="float:right"/>
 </p>
 
 - Create the database schema in MySQL:
